@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20221209</CreaDate><CreaTime>16570000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20221209" Time="165700">ExtractByMask K_EU28.tif SL_Slovania.tif "C:\Users\jvt770\surfdrive\Education\Advanced Spatial Analysis\2022\FinalAssignmentData\K_Slovenia.tif"</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20221209</CreaDate><CreaTime>16535300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\Aggregate" Date="20221209" Time="165353">Aggregate Slovenia.tif "C:\Users\jvt770\surfdrive\Education\Advanced Spatial Analysis\2022\FinalAssignmentData\DataFinalAssignment\SL_Slovania.tif" 1 Mean EXPAND DATA</Process></lineage></DataProperties></Esri></metadata>
